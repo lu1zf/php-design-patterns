@@ -1,0 +1,12 @@
+{
+    "name": "lu1zf/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "src/"
+        }
+    },
+    "files": [
+        "config.php"
+    ],
+    "require": {}
+}
